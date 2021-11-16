@@ -1,0 +1,37 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Health Care Management"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e9f1bf72-c40e-b762-0f5a-6cf11e06d9bd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Business Model Innovation: Global Health in Frontier Markets",
+  "course_description": "This course explores successful approaches to delivering healthcare in challenging settings. We analyze organizations to find why some fall short while others grow in size and contribute to the health of the people they serve, and explore promising business models and social enterprise innovations.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.232",
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Lecture Notes",
+    "Written Assignments with Examples",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
